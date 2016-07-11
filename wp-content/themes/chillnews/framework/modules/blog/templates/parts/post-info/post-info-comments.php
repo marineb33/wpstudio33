@@ -1,0 +1,1 @@
+<div class="mkdf-post-info-comments-holder"><a class="mkdf-post-info-comments" href="<?php comments_link(); ?>" target="_self"><?php comments_number('0 ' . esc_html__('Comments','chillnews'), '1 '.esc_html__('Comment','chillnews'), '% '.esc_html__('Comments','chillnews') ); ?></a></div>

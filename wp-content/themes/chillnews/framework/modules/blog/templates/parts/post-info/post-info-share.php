@@ -1,0 +1,1 @@
+<div class ="mkdf-blog-share"><?php echo chillnews_mikado_get_social_share_html(); ?></div>

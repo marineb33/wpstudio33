@@ -1,0 +1,1 @@
+<div class="mkdf-blog-like"><?php if( function_exists('chillnews_mikado_get_like') ) chillnews_mikado_get_like(); ?></div>

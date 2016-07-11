@@ -1,0 +1,1 @@
+<div class="mkdf-post-info-count"><span class="mkdf-post-count-number"><?php echo chillnews_mikado_get_post_count_views(chillnews_mikado_get_page_id()); ?></span><span class="mkdf-post-count-text"><?php esc_html_e('Views','chillnews'); ?></span></div>

@@ -1,0 +1,805 @@
+# Copyright (C) 2016 Mikado Themes
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: ChillNews 1.2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/chillnews\n"
+"POT-Creation-Date: 2016-06-20 15:15:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:28
+msgid "Sorry.......404 Error Page"
+msgstr ""
+
+#: 404.php:35
+msgid "Sorry, but the page you are looking for doesn't exist."
+msgstr ""
+
+#: comments.php:3
+msgid "NO COMMENTS"
+msgstr ""
+
+#: comments.php:3
+msgid " COMMENT "
+msgstr ""
+
+#: comments.php:3
+msgid " COMMENTS "
+msgstr ""
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:28
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments.php:41
+msgid "LEAVE A COMMENT"
+msgstr ""
+
+#: comments.php:42
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: comments.php:43
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:44
+msgid "POST COMMENT"
+msgstr ""
+
+#: comments.php:45
+msgid "Write your comment here..."
+msgstr ""
+
+#: comments.php:49
+msgid "Name"
+msgstr ""
+
+#: comments.php:50
+msgid "E-mail"
+msgstr ""
+
+#: comments.php:51
+msgid "Website"
+msgstr ""
+
+#: framework/admin/skins/mikado/templates/content-import.php:100
+msgid "The import process may take some time. Please be patient."
+msgstr ""
+
+#: framework/admin/skins/mikado/templates/content-import.php:119
+msgid "Important notes:"
+msgstr ""
+
+#: framework/admin/skins/mikado/templates/content-import.php:121
+msgid "Please note that import process will take time needed to download all attachments from demo web site."
+msgstr ""
+
+#: framework/admin/skins/mikado/templates/content-import.php:122
+msgid "If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+
+#: framework/admin/skins/mikado/templates/header.php:19
+msgid "Save Changes"
+msgstr ""
+
+#: framework/mkd-framework.php:468
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:618
+msgid "Pingback:"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:620
+#: framework/modules/blog/blog-functions.php:623
+msgid "/"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:621
+msgid "Author"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:639
+msgid "Leave reply"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:640
+msgid "Edit comment"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:811
+msgid "Continue reading"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:885
+msgid "Read More"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:1002
+msgid "You already rated this post!"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:1018
+#: framework/modules/blog/blog-functions.php:1023
+msgid "Thank you! You have succesfully rated this post!"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:1036
+msgid "Template"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:1051
+msgid "Enable Sidebar"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:1062
+msgid "Template Settings"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:1067
+msgid " - Featured Post Settings"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:1071
+#: framework/modules/blog/blog-functions.php:1091
+#: framework/modules/blog/blog-functions.php:1106
+msgid "Custom Image Width(px)"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:1075
+#: framework/modules/blog/blog-functions.php:1095
+#: framework/modules/blog/blog-functions.php:1110
+msgid "Custom Image Height(px)"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:1079
+#: framework/modules/blog/blog-functions.php:1114
+msgid "Excerpt Length"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:1086
+msgid " - Featured Post Small Image Settings"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:1087
+msgid "This options work only for Template 1 or Template 5"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:1102
+msgid " - Non-Featured Post Settings"
+msgstr ""
+
+#: framework/modules/blog/shortcodes/lib/shortcode-abstract.php:271
+#: framework/modules/blog/templates/parts/no-posts.php:2
+#: framework/modules/shortcodes/expanding-video-post/templates/expanding-video-post-template.php:71
+#: framework/modules/widgets/breaking-news/breaking-news.php:169 search.php:95
+msgid "No posts were found."
+msgstr ""
+
+#: framework/modules/blog/shortcodes/templates/post-show-load-more-template.php:3
+msgid "Show More"
+msgstr ""
+
+#: framework/modules/blog/shortcodes/templates/post-show-load-more-template.php:7
+msgid "LOADING..."
+msgstr ""
+
+#: framework/modules/blog/templates/lists/parts/tags.php:3
+#: framework/modules/blog/templates/single/parts/tags.php:6
+msgid "POST TAGS:"
+msgstr ""
+
+#: framework/modules/blog/templates/lists/unique-author-layout.php:44
+#: framework/modules/blog/templates/single/parts/author-info.php:24
+msgid "/ Author"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/audio.php:4
+msgid "Your browser don't support audio player"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/post-info/post-info-comments.php:1
+msgid "Comments"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/post-info/post-info-comments.php:1
+msgid "Comment"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/post-info/post-info-count.php:1
+msgid "Views"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/video.php:17
+msgid "Video thumb"
+msgstr ""
+
+#: framework/modules/blog/templates/single/parts/ratings.php:3
+msgid "Rate This Article:"
+msgstr ""
+
+#: framework/modules/blog/templates/single/parts/related-posts.php:4
+msgid "RELATED ARTICLES"
+msgstr ""
+
+#: framework/modules/blog/templates/single/parts/share.php:2
+msgid "FOLLOW US ON:"
+msgstr ""
+
+#: framework/modules/header/functions.php:10
+msgid "Main Navigation"
+msgstr ""
+
+#: framework/modules/header/functions.php:11
+msgid "Mobile Navigation"
+msgstr ""
+
+#: framework/modules/header/templates/parts/logo.php:5
+msgid "logo"
+msgstr ""
+
+#: framework/modules/header/templates/parts/mobile-logo.php:5
+msgid "mobile-logo"
+msgstr ""
+
+#: framework/modules/header/templates/parts/mobile-navigation.php:22
+msgid "Click here - to select or create a mobile menu"
+msgstr ""
+
+#: framework/modules/header/templates/parts/navigation.php:20
+msgid "Click here - to select or create a menu"
+msgstr ""
+
+#: framework/modules/header/templates/types/header-type3.php:56
+msgid "Search..."
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:12
+msgid "Top Bar Left"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:19
+msgid "Top Bar Right"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:36
+msgid "Header Banner"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:40
+msgid "Widgets added here will appear on the right hand side from the logo"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:54
+msgid "Right From Mobile Logo"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:58
+msgid "Widgets added here will appear on the right hand side from the mobile logo"
+msgstr ""
+
+#: framework/modules/like/like.php:115 framework/modules/like/like.php:128
+#: framework/modules/like/like.php:141
+msgid "Like this"
+msgstr ""
+
+#: framework/modules/like/like.php:118 framework/modules/like/like.php:131
+#: framework/modules/like/like.php:144
+msgid "You already like this!"
+msgstr ""
+
+#: framework/modules/shortcodes/button/button.php:39
+msgid "Mikado Button"
+msgstr ""
+
+#: framework/modules/shortcodes/button/button.php:166
+msgid "Insert margin in format: 0px 0px 1px 0px"
+msgstr ""
+
+#: framework/modules/shortcodes/customfont/custom-font.php:35
+msgid "Mikado Custom Font"
+msgstr ""
+
+#: framework/modules/shortcodes/expanding-video-post/expanding-video-post.php:35
+msgid "Mikado Expanding Video Post"
+msgstr ""
+
+#: framework/modules/shortcodes/icon/icon.php:36
+msgid "Mikado Icon"
+msgstr ""
+
+#: framework/modules/shortcodes/icon/icon.php:81
+msgid "Please insert border radius(Rounded corners) in px. For example: 4 "
+msgstr ""
+
+#: framework/modules/shortcodes/ordered-list/ordered-list.php:18
+msgid "Mikado List - Ordered"
+msgstr ""
+
+#: framework/modules/shortcodes/section-title/section-title.php:34
+msgid "Mikado Section Title"
+msgstr ""
+
+#: framework/modules/shortcodes/separator/separator.php:23
+msgid "Mikado Separator"
+msgstr ""
+
+#: framework/modules/shortcodes/socialshare/social-share.php:43
+msgid "Mikado Social Share"
+msgstr ""
+
+#: framework/modules/shortcodes/socialshare/templates/dropdown.php:3
+msgid "Share"
+msgstr ""
+
+#: framework/modules/shortcodes/tabs/tab.php:28
+msgid "Mikado Tab"
+msgstr ""
+
+#: framework/modules/shortcodes/tabs/tabs.php:29
+msgid "Mikado Tabs"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:61
+msgid " Tag"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:73
+msgid "Author:"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:91
+#: framework/modules/title/title-functions.php:209
+#: framework/modules/widgets/search-opener/search-opener.php:84
+#: framework/modules/widgets/search-opener/search-opener.php:93
+msgid "Search"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:102
+msgid "404 - Page not found"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:131
+msgid "Archive"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:183
+msgid "Home"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:268
+msgid "Posts Tagged "
+msgstr ""
+
+#: framework/modules/title/title-functions.php:272
+msgid "Articles Posted by "
+msgstr ""
+
+#: framework/modules/title/title-functions.php:275
+msgid "Error 404"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:285
+msgid "Page"
+msgstr ""
+
+#: framework/modules/widgets/breaking-news/breaking-news.php:158
+msgid "Trending News"
+msgstr ""
+
+#: framework/modules/widgets/lib/widget-class.php:87
+msgid "There are no options for this widget."
+msgstr ""
+
+#: framework/modules/widgets/post-layout-tabs/post-layout-tabs.php:179
+#: framework/modules/widgets/post-tabs/post-tabs.php:219
+msgid "All"
+msgstr ""
+
+#: framework/modules/widgets/sticky-sidebar/sticky-sidebar.php:8
+msgid "Use this widget to make the sidebar sticky. Drag it into the sidebar above the widget which you want to be the first element in the sticky sidebar."
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:182
+msgid "N"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:182
+msgid "NNE"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:182
+msgid "NE"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:182
+msgid "ENE"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:182
+msgid "E"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:182
+msgid "ESE"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:182
+msgid "SE"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:182
+msgid "SSE"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:182
+msgid "S"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:182
+msgid "SSW"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:182
+msgid "SW"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:182
+msgid "WSW"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:182
+msgid "W"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:182
+msgid "WNW"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:182
+msgid "NW"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:182
+msgid "NNW"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:195
+#: framework/modules/widgets/weather/weather.php:220
+msgid "C"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:200
+msgid "humidity: "
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:200
+msgid "%"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:201
+msgid "wind: "
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:201
+msgid " m/s "
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:202
+msgid "H"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:202
+msgid "L"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:214
+msgid "Sun"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:214
+msgid "Mon"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:214
+msgid "Tue"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:214
+msgid "Wed"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:214
+msgid "Thu"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:214
+msgid "Fri"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:214
+msgid "Sat"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:239
+msgid "No weather information available"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:86
+msgid "Sale"
+msgstr ""
+
+#: functions.php:654
+msgid "No more posts"
+msgstr ""
+
+#: functions.php:655
+msgid "Loading new posts..."
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+
+#: includes/nav-menu/edit_custom_walker.php:78
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+
+#: includes/nav-menu/edit_custom_walker.php:82
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:107
+msgid "Move up"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:120
+msgid "Move down"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:122
+#: includes/nav-menu/edit_custom_walker.php:124
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:133
+msgid "URL"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:140
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:146
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:153
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:158
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:164
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:170
+msgid "Description"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:172
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:180
+msgid "Anchor"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:191
+msgid "Don't link"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:201
+msgid "Don't show"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:208
+msgid "Type"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:218
+msgid "Wide menu position"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:228
+msgid "Wide Area Background Image"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:241
+msgid "Icon Pack"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:257
+msgid "Icon"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:277
+msgid "Custom widget Area"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:288
+msgid "Only for wide menu types"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:298
+msgid "Original: %s"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:311
+msgid "Remove"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:312
+msgid "Cancel"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:71
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:72
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:73
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:74
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:75
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:76
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:77
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:78
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:79
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:80
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:81
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:82
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:83
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:84
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:85
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:86
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:87
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/sidebar/mkd-custom-sidebar.php:18
+msgid "Custom Widget Area"
+msgstr ""
+
+#: includes/sidebar/mkd-custom-sidebar.php:42
+msgid "Enter Name of the new Widget Area"
+msgstr ""
+
+#: includes/sidebar/mkd-custom-sidebar.php:43
+msgid "Add Widget Area"
+msgstr ""
+
+#: search.php:30
+msgid " - Search Results"
+msgstr ""
+
+#: search.php:41
+msgid "If you're not happy with the results, please do another search"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:25
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "ChillNews"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://chillnews.mikado-themes.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A Modern News/Magazine Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mikado Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/mikado-themes"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Standard Whole Post"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Standard"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "WooCommerce"
+msgstr ""

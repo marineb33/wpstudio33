@@ -1,0 +1,26 @@
+1.3
+- Added Woocommerce 2.6.1 compatibility
+- Updated Visual Composer to 4.12
+- Updated Revoultion Slider to 5.2.5.4
+- Fixed Social Share functionality
+- Fixed duplicating posts on 'load more' pagination
+
+1.2.1
+- Updated Visual Composer to 4.11.2.1
+- Updated Revolution Slider to 5.2.5
+
+1.2
+- Updated Wordpress 4.5 update. JS fix for conflict with wp 4.5
+- Updated Visual Composer to 4.11.1
+
+1.1
+- Added WooCommerce 2.5.2 compatibility
+- Updated Visual Composer to 4.10
+- Fixed demo import issue with posts not found
+- Fixed menu position when search form is disabled in menu and header is in grid
+- Fixed button text option for Post Layouts
+- Fixed Post Info Slider issue when Display Date is set to No 
+- Fixed Post Layout Tabs Widget Link
+- Fixed Woocommerce Quantity Functionality
+- Fixed Woocommerce Ratings on Single Product
+- Fixed Disable Featured Image option in Mikado Post Format Standard area
